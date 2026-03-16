@@ -4,3 +4,7 @@ networkx
 matplotlib
 seaborn
 scikit-learn
+cudf-cu12
+cuml-cu12
+cugraph-cu12
+plotly
