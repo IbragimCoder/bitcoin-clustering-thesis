@@ -32,3 +32,5 @@ Jupyter-ноутбуки с реализацией математических 
 
 ### 3. Данные — `/data`
 Тестовый набор данных (6 исторических блоков), на котором можно запустить и проверить работу всех Jupyter-ноутбуков.
+Из-за ограничений GitHub на размер файлов, основной датасет доступен по ссылке:
+[Скачать bitcoin_clustered_users.csv](https://drive.google.com/file/d/1sVuW8TnLED9ritEYWuojcPJfjHrZTbTB/view?usp=sharing)
