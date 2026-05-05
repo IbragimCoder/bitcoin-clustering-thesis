@@ -1,4 +1,3 @@
-<img width="3600" height="2400" alt="cluster_visualization" src="https://github.com/user-attachments/assets/f272a946-b797-4c2a-8e18-7bfea2183a21" />
 # Методы группировки участников блокчейна на основании открытых данных
 
 
@@ -29,7 +28,7 @@ Jupyter-ноутбуки с реализацией математических 
   - Микро-сегментация (DBSCAN): Поиск скрытых аномалий и высокоплотных бот-сетей внутри кластера крупных игроков.
   - Визуализация (PCA 2D): Интерактивное представление структуры блокчейна в трехмерном пространстве главных компонент.
  
-  ![2D Clustering Result](cluster_visualization.png)
+  <img width="3600" height="2400" alt="cluster_visualization" src="https://github.com/user-attachments/assets/f272a946-b797-4c2a-8e18-7bfea2183a21" />
 
 ### 3. Данные — `/data`
 Тестовый набор данных (6 исторических блоков), на котором можно запустить и проверить работу всех Jupyter-ноутбуков.
