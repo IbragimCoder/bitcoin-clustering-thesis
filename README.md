@@ -1,3 +1,4 @@
+<img width="3600" height="2400" alt="cluster_visualization" src="https://github.com/user-attachments/assets/f272a946-b797-4c2a-8e18-7bfea2183a21" />
 # Методы группировки участников блокчейна на основании открытых данных
 
 
